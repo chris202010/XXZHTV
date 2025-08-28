@@ -9,6 +9,4 @@ export interface ChangelogEntry {
   fixed: string[];
 }
 
-export const changelog: ChangelogEntry[] = [
- 
 export default changelog;
